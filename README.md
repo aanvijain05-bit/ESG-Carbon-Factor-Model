@@ -26,11 +26,6 @@ The carbon factor generates economically meaningful alpha of 5.86% per annum aft
 - **SMB loading: -0.292 (t=-2.02, p=0.048).** The green portfolio tilts toward large caps, consistent with larger firms having more resources to manage and disclose environmental performance.
 - **2022 drawdown.** Rolling alpha turns sharply negative in 2022, coinciding with the energy price shock following Russia's invasion of Ukraine, a known regime risk for ESG strategies.
 
-## Charts
-
-![ESG Factor Returns](ESG%20Carbon%20Intensity%20Factor%20Mod...)
-![Regression Results](FAMA-FRENCH%20REGRESSION%20RES...)
-
 ## Skills Demonstrated
 - Factor construction and cross-sectional z-scoring
 - Quintile portfolio sorts and long-short backtesting
